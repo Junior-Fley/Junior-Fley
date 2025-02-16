@@ -1,3 +1,9 @@
+<h1 align="center"><b>Hi , I'm Junior Jesus </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 # 💫 About Me:
 💡 Sobre mí<br><br>Soy Junior Jesus Quispe Ricra, estudiante de Ingeniería en Sistemas en la UTN Córdoba. Desde siempre me ha interesado la tecnología y la forma en que podemos usarla para resolver problemas y mejorar la vida de las personas. Me gusta aprender cosas nuevas y explorar diferentes áreas de la programación, desde el desarrollo de software hasta la inteligencia artificial.<br><br>Me considero una persona curiosa, creativa y con ganas de mejorar constantemente. Disfruto el proceso de aprender, investigar y aplicar mis conocimientos en proyectos desafiantes. Además, me gusta compartir lo que aprendo y colaborar con otros, porque creo que el crecimiento es más significativo cuando se hace en equipo.<br><br>En mi tiempo libre, me gusta escribir mis pensamientos y reflexiones, lo que me ayuda a organizar mis ideas y mejorar mi forma de ver el mundo. También disfruto cocinar, pero sobre todo, disfrutar de la comida que preparo.<br><br>Siempre estoy buscando nuevas formas de expandir mis conocimientos y mejorar como profesional y como persona<br>
 
