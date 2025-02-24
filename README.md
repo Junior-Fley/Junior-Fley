@@ -6,9 +6,9 @@
       alt="Typing SVG" />
   </a>
 </p>
+ 
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 💫 About Me:  
 
-
-# 💫 About Me:  
 💡 Sobre mí<br><br>Soy Junior Jesus Quispe Ricra, estudiante de Ingeniería en Sistemas en la UTN Córdoba. Desde siempre me ha interesado la tecnología y la forma en que podemos usarla para resolver problemas y mejorar. Me gusta aprender cosas nuevas y explorar diferentes áreas de la programación, desde el desarrollo de software hasta la inteligencia artificial.<br><br>Me considero una persona curiosa, creativa y con ganas de mejorar constantemente. Disfruto el proceso de aprender, investigar y aplicar mis conocimientos en proyectos desafiantes. Además, me gusta compartir lo que aprendo y colaborar con otros, porque creo que el crecimiento es más significativo cuando se hace en equipo.<br><br>En mi tiempo libre, me gusta escribir mis pensamientos y reflexiones, lo que me ayuda a organizar mis ideas y mejorar mi forma de ver el mundo. También disfruto cocinar, pero sobre todo, disfrutar de la comida que preparo.<br><br>Siempre estoy buscando nuevas formas de expandir mis conocimientos y mejorar como profesional y como persona.<br>
 
 
