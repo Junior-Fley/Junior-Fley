@@ -9,7 +9,7 @@
  
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 💫 About Me:  
 
-💡 Sobre mí<br><A<br>
+💡 Sobre mí<br><br>Soy Junior Jesus Quispe Ricra, estudiante de Ingeniería en Sistemas en la UTN Córdoba...<br>
 
 
 # 🌐 Socials:
